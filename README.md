@@ -27,15 +27,15 @@ Pre-trained model checkpoint included for quick testing.
 ## Usage
 
 1. **Clone the repository**:
-
+    ```bash
     git clone <repository_url>
 
 3. **Navigate to the project directory**:
-  
+   ```bash
    cd ViT-CIFAR10
 
 3. **Run the Jupyter Notebook**:
-  
+   ```bash
    jupyter notebook ViTransformer.ipynb
 
 4. **For standalone scripts**:
