@@ -28,7 +28,7 @@ Pre-trained model checkpoint included for quick testing.
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/LMamon/ViTransformer.git>
 
 3. **Navigate to the project directory**:
    ```bash
