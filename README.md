@@ -1,6 +1,8 @@
 # Vision Transformer (ViT) on CIFAR-10
 
+deprecated and moved to HuggingFace https://huggingface.co/roylvzn/vit-cifar10
 This repository contains the implementation of a Vision Transformer (ViT) trained on the CIFAR-10 dataset. This project was developed during the MLH Global Hack Week as an introduction to leveraging transformer models for computer vision tasks.
+
 
 ## Features
 
@@ -54,7 +56,7 @@ Experiment with transformer-based models for image classification.
 
 ## Results
 
-Accuracy: Achieved 93% accuracy on the CIFAR-10 test set.
+Accuracy: Achieved 93% accuracy with the CIFAR-10 test set.
 
 Visualization: Includes attention maps and classification results.
 
